@@ -8,7 +8,7 @@
 
 本科：University of Sydney, Software Engineering
 
-研究生：UCSD ECE
+研究生：University of California, San Diego, Electrical and Computer Engineering
 
 <br />
 
