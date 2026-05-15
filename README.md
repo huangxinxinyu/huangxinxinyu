@@ -6,12 +6,6 @@
 
 <br />
 
-本科：University of Sydney, Software Engineering
-
-研究生：University of California, San Diego, Electrical and Computer Engineering
-
-<br />
-
 <a href="https://www.xinyuhuang.space/">Personal Site</a>
  ·
 <a href="mailto:xinyuhimself@gmail.com">xinyuhimself@gmail.com</a>
