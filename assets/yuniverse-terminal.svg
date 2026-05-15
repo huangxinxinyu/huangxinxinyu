@@ -1,0 +1,16 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yuniverse terminal card</title>
+  <desc id="desc">A terminal style card for Xinyu Huang's GitHub profile.</desc>
+  <rect width="760" height="260" rx="22" fill="#F7F4ED"/>
+  <rect x="22" y="22" width="716" height="216" rx="18" fill="#FFFDF8" stroke="#D8D0C2" stroke-width="2"/>
+  <rect x="22" y="22" width="716" height="44" rx="18" fill="#EFE8DA"/>
+  <path d="M22 48H738V68H22V48Z" fill="#EFE8DA"/>
+  <circle cx="51" cy="44" r="7" fill="#A55335"/>
+  <circle cx="75" cy="44" r="7" fill="#D9A441"/>
+  <circle cx="99" cy="44" r="7" fill="#5D6B48"/>
+  <text x="380" y="49" text-anchor="middle" fill="#737A73" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="14">yuniverse.local</text>
+  <text x="54" y="104" fill="#5D6B48" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="18" font-weight="700">$ whoami</text>
+  <text x="54" y="138" fill="#171B18" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="22" font-weight="700">Xinyu Huang / Software Engineering</text>
+  <text x="54" y="174" fill="#5D6B48" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="18" font-weight="700">$ education</text>
+  <text x="54" y="207" fill="#3F4642" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="18">USYD Software Engineering -> UC San Diego ECE</text>
+</svg>
