@@ -1,35 +1,18 @@
 <div align="center">
 
-# Yuniverse / 黄新宇
+# 黄新宇 / Xinyu Huang
 
-**Student / Software Developer**
+本科：University of Sydney, Software Engineering
 
-Shanghai -> UCSD ECE
+研究生：UCSD ECE
 
-A personal universe for software work, study, warmth, and curiosity.
+<br />
 
-[Email](mailto:xinyuhimself@gmail.com) · [GitHub](https://github.com/huangxinxinyu)
+<a href="https://www.xinyuhuang.space/">Personal Site</a>
 
-</div>
+<br />
+<br />
 
----
-
-```txt
-Mode   Student / Developer
-Focus  Software Engineering · AI Tools · Personal Website
-Now    Interning in Shanghai, heading to UCSD
-```
-
-### About
-
-本科阶段在悉尼大学学习 Software Engineering，研究生阶段将前往 UCSD ECE。
-
-现在关注软件开发、AI 工具和个人网站里的创造力。
-
----
-
-<div align="center">
-
-`Software Engineering` · `AI Tools` · `Creative Systems` · `Fitness and Film`
+<img src="https://skillicons.dev/icons?i=redis,python,spring,react,mysql,postgres,nginx,fastapi,docker,git" alt="Tech stack icons" />
 
 </div>
