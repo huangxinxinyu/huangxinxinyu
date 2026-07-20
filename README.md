@@ -15,6 +15,6 @@
 <br />
 <br />
 
-<img src="https://skillicons.dev/icons?i=redis,python,spring,react,mysql,postgres,nginx,fastapi,docker,git" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=redis,python,spring,react,mysql,postgres,nginx,fastapi,docker,git,go" alt="Tech stack icons" />
 
 </div>
